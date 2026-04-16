@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d6bc6751-f83a-4d94-ac73-b4a10ed9b1e7",
+  "id_short": 943706,
+  "published_at": "2026-04-16T07:16:50Z",
+  "repo_name": "new-restaurant-domains-365-days-in-minnesota-us-sample-943706",
+  "sample_asset_name": "beamstation_943706_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/943706/beamstation_943706_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_records": 35,
+  "sample_sha256": "1a7f18c8573a245b4419510624acaea9726ac7797b2510a175911d0afb6cfd49",
+  "sample_size_bytes": 130043,
+  "total_records": 359
+}
