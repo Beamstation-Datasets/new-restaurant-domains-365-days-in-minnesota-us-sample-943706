@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Minnesota, US",
+  "export_job_id": "d6bc6751-f83a-4d94-ac73-b4a10ed9b1e7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 943706,
+  "location_name": "Minnesota",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-minnesota-us-sample-943706",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/943706/beamstation_943706_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_pct": 9.75,
+  "sample_records": 35,
+  "sample_sha256": "1a7f18c8573a245b4419510624acaea9726ac7797b2510a175911d0afb6cfd49",
+  "sample_size_bytes": 130043,
+  "total_records": 359,
+  "updated_at": "2026-04-09T21:06:54.659419+00:00"
+}
